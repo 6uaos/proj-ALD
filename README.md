@@ -1,5 +1,25 @@
 # ToyProject - ALD
 
+---
+
+## MANUAL
+
+1. 사고 싶은 책들의 ISBN을 찾아본다.
+2. ALD.ipynb를 코랩이나 기타 파이썬 컴파일러에서 실행한다.
+3. ISBN을 입력한다.
+4. 모든 사고싶은 책들의 ISBN입력이 완료되면 'q'나 'Q'를 입력한다.
+5. 마지막 셀까지 실행한다.
+
+### 알라딘 홈페이지에서 ISBN찾는 법
+
+1. 사고싶은 책을 검색한다.
+2. 살 책의 새책 페이지에 들어간다.
+ 
+![image](https://github.com/uoahy-6uoas/proj-ALD/assets/144662602/9edbcbfc-c987-4ee4-92a2-e7fdf6bc48d1)
+
+Ta-Da
+
+---
 
 ## ABSTRACT
 
